@@ -8,7 +8,7 @@ Check out also our [list of dispasable / temporary email domains](https://github
 
 ---
 
-Domains: **36**
+Domains: **41**
 
 Update: **April 23, 2024**
 
@@ -17,6 +17,7 @@ Update: **April 23, 2024**
 - 420blaze.it
 - aaathats3as.com
 - airmail.cc
+- aol.com
 - cocaine.ninja
 - cock.email
 - cock.li
@@ -38,15 +39,19 @@ Update: **April 23, 2024**
 - gmx.org
 - googlemail.com
 - horsefucker.org
+- hotmail.com
 - loves.dicksinhisan.us
 - loves.dicksinmyan.us
 - mail.gmx
 - mein.gmx
 - memeware.net
 - national.shitposting.agency
+- outlook.com
+- proton.me
 - tfwno.gf
 - waifu.club
 - wants.dicksinhisan.us
 - wants.dicksinmyan.us
 - yahoo.com
 - ymail.com
+- zohomail.eu
