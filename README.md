@@ -2,12 +2,14 @@
 
 A curated list of free public (personal, not disposable) email domains.
 
+Please ⭐ STAR ⭐ this repo is you find it useful. It helps to gain more exposure and receive more contributions 🙏.
+
 Check out also our [list of dispasable / temporary email domains](https://github.com/WebSnifferHQ/temporary-and-disposable-email-domains/).
 
+---
 Domains: 36
 
 Update: April 23, 2024
-
 ---
 
 - 420blaze.it
