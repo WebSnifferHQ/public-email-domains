@@ -8,9 +8,9 @@ Check out also our [list of dispasable / temporary email domains](https://github
 
 ---
 
-Domains: 36
+Domains: **36**
 
-Update: April 23, 2024
+Update: **April 23, 2024**
 
 ---
 
