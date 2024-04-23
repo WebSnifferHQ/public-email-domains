@@ -7,9 +7,11 @@ Please ⭐ STAR ⭐ this repo is you find it useful. It helps to gain more expos
 Check out also our [list of dispasable / temporary email domains](https://github.com/WebSnifferHQ/temporary-and-disposable-email-domains/).
 
 ---
+
 Domains: 36
 
 Update: April 23, 2024
+
 ---
 
 - 420blaze.it
