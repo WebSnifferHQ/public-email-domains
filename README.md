@@ -8,7 +8,7 @@ Check out also our [list of disposable / temporary email domains](https://github
 
 ---
 
-Domains: **239**
+Domains: **255**
 
 Update: **April 23, 2024**
 
@@ -43,6 +43,7 @@ Update: **April 23, 2024**
 - berlin.com
 - bikerider.com
 - birdlover.com
+- bk.ru
 - blader.com
 - boardermail.com
 - brazilmail.com
@@ -73,6 +74,7 @@ Update: **April 23, 2024**
 - cutey.com
 - cyber-wizard.com
 - cyberdude.com
+- cyberfear.com
 - cybergal.com
 - cyberservices.com
 - dallasmail.com
@@ -120,6 +122,7 @@ Update: **April 23, 2024**
 - graphic-designer.com
 - greenmail.net
 - groupmail.com
+- gtfcy37qyzor7kb6blz2buwuu5u7qjkycasjdf3yaslibkbyhsxub4yd.onion
 - hackermail.com
 - hairdresser.net
 - hilarious.com
@@ -134,11 +137,13 @@ Update: **April 23, 2024**
 - humanoid.net
 - icloud.com
 - iname.com
+- inbox.ru
 - innocent.com
 - inorbit.com
 - instruction.com
 - instructor.net
 - insurer.com
+- internet.ru
 - irelandmail.com
 - israelmail.com
 - italymail.com
@@ -151,6 +156,7 @@ Update: **April 23, 2024**
 - koreamail.com
 - legislator.com
 - linuxmail.org
+- list.ru
 - live.com
 - lobbyist.com
 - lovecat.com
@@ -159,8 +165,12 @@ Update: **April 23, 2024**
 - madonnafan.com
 - mail-me.com
 - mail.com
+- mail.ee
 - mail.gmx
+- mail.ru
+- mailfence.com
 - marchmail.com
+- me.com
 - mein.gmx
 - memeware.net
 - metalfan.com
@@ -170,11 +180,14 @@ Update: **April 23, 2024**
 - munich.com
 - musician.org
 - muslim.com
+- my.com
 - myself.com
 - national.shitposting.agency
 - net-shopping.com
 - null.net
 - nycmail.com
+- onionmail.com
+- onionmail.org
 - optician.com
 - orthodontist.net
 - outlook.com
@@ -215,6 +228,7 @@ Update: **April 23, 2024**
 - sanfranmail.com
 - scotlandmail.com
 - secretary.net
+- skiff.com
 - snakebite.com
 - socialworker.net
 - sociologist.com
@@ -251,5 +265,7 @@ Update: **April 23, 2024**
 - workmail.com
 - writeme.com
 - yahoo.com
+- yandex.com
 - ymail.com
+- zohomail.com
 - zohomail.eu
