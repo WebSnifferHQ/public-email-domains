@@ -1,10 +1,10 @@
-# Free Public Email Domains
+# Public Email Domains
 
 A curated list of free public (personal, not disposable) email domains.
 
 Please ⭐ STAR ⭐ this repo is you find it useful. It helps to gain more exposure and receive more contributions 🙏.
 
-Check out also our [list of disposable / temporary email domains](https://github.com/WebSnifferHQ/temporary-and-disposable-email-domains/).
+Check out also our [list of disposable / temporary / throwaway email domains](https://github.com/WebSnifferHQ/temporary-and-disposable-email-domains/).
 
 ---
 
